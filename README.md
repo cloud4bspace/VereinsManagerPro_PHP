@@ -10,5 +10,5 @@ Die Webseite stellt Informationen zu den Grundfunktionalitäten der Applikation 
 Personen, welche über den Link verfügen, können sich zu den Vereinsterminen an- oder abmelden.
 [Link Doodle-Formular](https://www.cloud4b.space/VereinsManager/Doodle/doodle.php)
 ### Formular für die Anwesenheitkontrolle
-Die An- oder Abwesenheiten der einzelnen Vereinsmitglieder werden über das Formular erfasst.
+Die An- oder Abwesenheiten der einzelnen Vereinsmitglieder werden über das Formular erfasst.  
 [Link Formular Anwesenheitskontrolle](https://www.cloud4b.space/VereinsManager/Kontrolle/kontrolluebersicht.php)
