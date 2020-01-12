@@ -6,6 +6,7 @@ Für das JavaFX-Projekt [VereinsManagerPro](https://github.com/cloud4bspace/Vere
 Die Webseite stellt Informationen zu den Grundfunktionalitäten der Applikation zur Verfügung.  
 [online-Hilfe](https://www.cloud4b.space/VereinsManager/Hilfe/help.html)
 ### Webseite mit Bookmarks (Linksammlung)
+Zusammenstellung der für die Applikation relevanten Links
 [Bookmarks](https://www.cloud4b.space/VereinsManager/Hilfe/bookmarks.html)
 
 ## Webformulare für die Terminverwaltung/-kontrolle
